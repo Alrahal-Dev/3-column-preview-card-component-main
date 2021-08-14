@@ -1,0 +1,56 @@
+
+.contenet{
+width:600px;
+height:400px;
+display:flex;padding:100px
+}
+
+
+.contenet div{width:200px;
+    height:400px
+}
+.seoans{background-color:rgb(226, 133, 37);
+border-top-left-radius: 20px;
+border-bottom-left-radius:20px;
+}
+.suvs{background-color:rgb(1, 105, 114);
+}
+.luxury {background-color:rgb(0, 64, 63);
+        border-top-right-radius: 20px;
+        border-bottom-right-radius:20px}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    color:white;
+    padding:40px
+ }
+ .text{color:white;
+font-size: 20px;
+padding:15px
+
+}
+img{padding-left: 10px;
+    width:50px;
+    height:50px;
+    padding-top: 10px;
+}
+.learn{
+    width: 150px;
+    height: 50px;
+    background-color:white;
+    color: black;
+    border-radius: 15px;
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    margin:20px
+}
+.learn:hover{background-color:transparent}
+
+  
+
+
+
+
